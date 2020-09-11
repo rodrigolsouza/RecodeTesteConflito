@@ -1,1 +1,1 @@
-aqui tem que ficar a linha conflito esquerdo
+aqui é o CONFLITO ESQUERDO!
