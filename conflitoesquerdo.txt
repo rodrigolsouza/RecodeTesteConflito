@@ -1,1 +1,2 @@
-aqui é o CONFLITO ESQUERDO!
+aqui tem que ficar a linha conflito ESQUERDO!
+aqui tem que ficar a linha conflito DIREITO!
